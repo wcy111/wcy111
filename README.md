@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body>
+<!-- <body>
 <h1 align="center">I've never watched Anime</h1>
 <br>
 <div align="center">
 <img src="https://i.pinimg.com/originals/d6/cb/8d/d6cb8d5b80003d1771b9b6ee5d0cbbfb.gif">
 </div>
-<br>
+<br> -->
