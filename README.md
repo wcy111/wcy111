@@ -3,7 +3,7 @@
 
 I'm a master student studying machine learning at Umich. I enjoy applying Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
-## Skill Set :muscle:
+## Skill Set 
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -30,7 +30,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br>
 
