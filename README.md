@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Chenyu Wang<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a master student studying machine learning at Umich. I enjoy applying Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a graduate student studying machine learning at Umich. I enjoy applying Machine Learning models for various interesting problems and deploying them to production, at scale. 
 
 ## Skill Set 
 
